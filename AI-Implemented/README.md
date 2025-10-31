@@ -1,52 +1,45 @@
 # 🤖 AI-Implemented Graphics
 
-This directory contains projects and visuals created or enhanced using **Artificial Intelligence (AI)** tools.
-
-These works explore how AI can contribute to **graphic design**, **visual storytelling**, and **creative experimentation** — from single concept images to complete poster series or digital campaigns.
+This directory contains **graphics and visuals created or enhanced using AI tools**.  
+Projects can range from a single concept image to multi-poster campaigns, blending **AI output** with **human design refinement**.
 
 ---
 
 ## 🎯 Purpose
 
-The goal of this directory is to document and present all **AI-assisted graphics**, whether they are:
-- A single image generated through prompts
-- A poster or series of designs
-- A conceptual artwork or experiment
-- Any visual that blends AI output with human creativity
+To document and showcase **AI-assisted graphics**, including:  
+- Single AI-generated images  
+- Posters or series of designs  
+- Concept artworks or experiments  
+- Any visual combining AI creativity and human input
 
 ---
 
-## 🧠 Typical Tools Used
+## 🔗 Example Project
 
-| Category | Tools | Purpose |
-|-----------|--------|----------|
-| **Prompt Writing & Ideation** | ChatGPT, Gemini, Claude | Brainstorming ideas, refining text prompts |
-| **Image Generation** | Gemini, DALL·E, Midjourney | Producing AI-generated visuals |
-| **Design & Editing** | Canva, Photoshop, Figma | Adding titles, layout tweaks, or graphic polish |
-| **Compilation & Presentation** | Word, PowerPoint, PDF tools | Combining or exporting final versions |
+- [PR4U-Recruitment](https://github.com/Hurairiam/graphics-projects/tree/main/AI-Implemented/PR4U_Recruitment) – [Graphics](https://github.com/Hurairiam/graphics-projects/blob/main/AI-Implemented/PR4U_Recruitment/PR4U%20Recruitment%20%20Fall%202025.pdf)
 
 ---
 
-## 🧩 General Workflow
+## 🧠 Common Tools
 
-1. **Concept Creation** — Define the purpose or idea of the graphic.  
-2. **Prompt Development** — Use AI text models to refine and structure prompts.  
-3. **Visual Generation** — Generate one or multiple images using an AI image model.  
-4. **Post-Processing** — Edit, crop, or enhance the image using design software.  
-5. **Finalization** — Export as a single image, poster, or compiled PDF for presentation.
+- **ChatGPT, Gemini, Claude** — Idea generation and prompt refinement  
+- **Gemini, DALL·E, Midjourney** — AI visual generation  
+- **Canva, Photoshop, Figma** — Titles, layout, and visual polish  
+- **Word, PowerPoint, PDF tools** — Final compilation and export  
 
 ---
 
-## 📁 Example Projects
+## 🔄 Typical Workflow
 
-- **PR4U-Recruitment/** → A multi-poster AI-generated recruitment campaign.  
-*(Future projects may include single-image artworks, concept renders, and other AI visuals.)*
+1. Define the concept or purpose.  
+2. Refine prompts using AI text models.  
+3. Generate visuals with AI image tools.  
+4. Post-process with design software (crop, adjust, enhance).  
+5. Finalize and export as an image, poster, or PDF.
 
 ---
 
 ## 💡 Vision
 
-AI-Implemented Graphics is a creative space that demonstrates how **human imagination** and **AI capability** can merge to create unique visual expressions.  
-It’s not just about automation — it’s about **co-creation between artist and algorithm**.
-
----
+AI-Implemented Graphics demonstrates how **human creativity and AI tools** can combine to produce unique, high-quality visual designs.
