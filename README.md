@@ -14,9 +14,4 @@ Each folder showcases creative projects that combine **artistic design** with **
 - **Canva / Figma / Photoshop** (optional post-processing or layout)
 - **PDF tools** (for combining final designs into presentation format)
 
-## ✍️ Author
-**Abu Huraira**  
-CSE Undergraduate | ULAB  
-Creative designer exploring the fusion of AI and visual storytelling.
-
 ---
