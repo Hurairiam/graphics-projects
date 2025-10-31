@@ -1,20 +1,19 @@
-# 📢 PR4U Recruitment Poster Project
+# 📢 PR4U Recruitment — Fall 2025
 
-A creative, AI-assisted design project developed for **PR4U’s Recruitment Campaign**, combining **AI-generated visuals** with human layout and design refinement.  
-
-This project blends the efficiency of **AI tools** with the aesthetic judgment of **manual design**, resulting in a professional, multi-poster recruitment presentation.
+A creative, **AI-assisted recruitment poster project** developed for **PR4U**, blending the power of **AI tools** with human design skills.  
+This project highlights how artificial intelligence can accelerate the design process while preserving creativity, coherence, and purpose.
 
 ---
 
 ## 🎯 Project Overview
 
-**Goal:**  
-To design visually compelling recruitment materials for **PR4U**, showcasing its creativity, inclusiveness, and dynamic student culture.
+**Objective:**  
+To design visually engaging recruitment materials for PR4U’s **Fall 2025 campaign**, reflecting its energy, inclusiveness, and student-driven culture.
 
 **Output:**  
-- 9 separate poster visuals generated with AI  
-- Enhanced and titled using design tools  
-- Compiled into a **2-page recruitment PDF**
+- 9 individually designed poster visuals  
+- Unified into a **two-page final PDF** for digital or print distribution  
+- [View Final PDF →](https://github.com/Hurairiam/graphics-projects/blob/main/AI-Implemented/PR4U_Recruitment/PR4U%20Recruitment%20%20Fall%202025.pdf)
 
 ---
 
@@ -22,21 +21,26 @@ To design visually compelling recruitment materials for **PR4U**, showcasing its
 
 | Tool | Purpose |
 |------|----------|
-| **ChatGPT** | Brainstormed themes, wrote and refined descriptive prompts for each poster concept |
-| **Gemini** | Generated visuals based on refined prompts |
-| **Canva** | Added titles, typography, and balanced composition |
-| **Photo Editor** | Cropped images and adjusted proportions for clean presentation |
-| **Microsoft Word** | Arranged final images into a two-page layout and exported the final PDF |
+| **ChatGPT** | Developed and refined thematic prompts for each poster concept |
+| **Gemini** | Generated the initial poster visuals from text prompts |
+| **Canva** | Added titles, text elements, and balanced overall composition |
+| **Photo Editor** | Cropped and refined visuals for cleaner presentation |
+| **Microsoft Word** | Arranged all posters into a **2-page layout** and exported as PDF |
 
 ---
 
 ## 🧩 Workflow Summary
 
-1. **Concept Generation** — Used ChatGPT to refine poster ideas and create detailed, style-consistent prompts.  
-2. **AI Image Creation** — Used Gemini to produce nine visuals reflecting PR4U’s core values.  
-3. **Design Enhancement** — Imported visuals into Canva to add titles, adjust layouts, and unify tone.  
-4. **Finishing Touches** — Minor cropping and cleanup for visual balance.  
-5. **Compilation** — Combined all visuals into a cohesive two-page recruitment document using Microsoft Word.  
+1. **Prompt Design:**  
+   Used ChatGPT to generate creative prompts based on PR4U’s goals and aesthetics.  
+2. **Visual Creation:**  
+   Generated 9 distinct posters using Gemini, each representing a unique recruitment theme.  
+3. **Design Enhancement:**  
+   Imported the AI visuals into Canva to add typography and improve layout balance.  
+4. **Final Assembly:**  
+   Cropped, refined, and combined all posters in Word to create the final presentation file.  
+5. **Export:**  
+   Saved and published as a two-page PDF for distribution.  
 
 ---
 
@@ -44,16 +48,17 @@ To design visually compelling recruitment materials for **PR4U**, showcasing its
 
 | File / Folder | Description |
 |----------------|--------------|
-| `/posters/` | Contains all nine poster visuals used in the project |
-| `/prompts/` | Includes text prompts from both ChatGPT and Gemini |
-| `PR4U_Recruitment_Posters.pdf` | Final 2-page compiled version for presentation |
-| `README.md` | This file — explains the full project overview |
+| [`posters/`](../PR4U_Recruitment/posters) | Contains all generated poster visuals |
+| [`prompts/`](../PR4U_Recruitment/prompts) | Includes text prompts from ChatGPT and Gemini |
+| [`PR4U Recruitment  Fall 2025.pdf`](https://github.com/Hurairiam/graphics-projects/blob/main/AI-Implemented/PR4U_Recruitment/PR4U%20Recruitment%20%20Fall%202025.pdf) | Final compiled two-page poster presentation |
+| `README.md` | Project documentation (this file) |
 
 ---
 
 ## 💬 Design Philosophy
 
-This project demonstrates how **AI and human design** can complement each other.  
-While AI handles the initial creative burst, **human refinement ensures emotion, clarity, and purpose** — key elements of effective visual communication.
+This project demonstrates the **collaboration between human creativity and AI efficiency**.  
+AI provided the foundation — fast, varied visual generation — while human design choices shaped clarity, cohesion, and storytelling.  
+The result is a polished, expressive, and meaningful visual identity for PR4U’s recruitment drive.
 
 ---
